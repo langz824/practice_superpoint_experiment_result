@@ -32,7 +32,9 @@ part 2
 
 有修改code 提高 good matching的門檻 讓線可以少一點
 
-在Spyder console內執行輸入指令ex：
+在Spyder console內執行輸入指令
+
+ex：
 
 run SIFT_feature_matching.py assets/6-1.jpg assets/6-2.jpg
 
