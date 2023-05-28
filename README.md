@@ -1,10 +1,21 @@
 <img src="assets/magicleap.png" width="240">
 
-### demo_superpoint目前進度：
-刪掉用不到的部分(影片 圖片)
+### SuperPoint：
+part1 paper Introduction
+Full paper PDF: SuperPoint: Self-Supervised Interest Point Detection and Description
+OpenCV python = 4.7.0
+torch version = 2.0.1
+matplotlib version = 3.7.1
+numpy version = 1.24.3
 
-現在：僅顯示第二張圖tracks 
-希望：呈現 matches point連接起來的圖
+part2 out experiments result
+A. directory of images, such as .png or .jpg
+B. video file, such as .mp4 or .avi
+C. USB Webcam
+
+
+part3 Match Point (Compare with SIFT)
+
 
 ### sift_demo 目前進度：
 part1 
