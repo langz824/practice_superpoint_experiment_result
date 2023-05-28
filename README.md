@@ -1,20 +1,20 @@
 <img src="assets/magicleap.png" width="240">
 
 ### SuperPoint：
-part1 paper Introduction
-Full paper PDF: SuperPoint: Self-Supervised Interest Point Detection and Description
-OpenCV python = 4.7.0
-torch version = 2.0.1
-matplotlib version = 3.7.1
-numpy version = 1.24.3
+part1 paper Introduction  
+Full paper PDF: SuperPoint: Self-Supervised Interest Point Detection and Description  
+OpenCV python = 4.7.0  
+torch version = 2.0.1  
+matplotlib version = 3.7.1  
+numpy version = 1.24.3  
+  
+part2 out experiments result  
+A. directory of images, such as .png or .jpg  
+B. video file, such as .mp4 or .avi  
+C. USB Webcam  
 
-part2 out experiments result
-A. directory of images, such as .png or .jpg
-B. video file, such as .mp4 or .avi
-C. USB Webcam
-
-
-part3 Match Point (Compare with SIFT)
+  
+part3 Match Point (Compare with SIFT)  
 
 
 ### sift_demo 目前進度：
