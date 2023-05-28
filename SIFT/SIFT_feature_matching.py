@@ -50,7 +50,7 @@ def compare_two(path_a, path_b):
     # ratio test as per Lowe's paper, set at 0.7 - rejects almost all false
     # matches while losing only a minimal percentage of true matches
     for i, (m, n) in enumerate(matches):
-        if m.distance < 0.7*n.distance:
+        if m.distance < 0.3*n.distance:
             matches_mask[i] = [1, 0]
             match += 1
 
